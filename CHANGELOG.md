@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 2.11.0
+
+*May 31, 2021*
+
+* Support specifying custom meta tags in YAML front-matter
+* Bump nokogiri from 1.11.3 to 1.11.6 (minimum supported version is 1.11.4)
+* Bump middleman-autoprefixer from 2.10.1 to 3.0.0
+
 ## Version 2.10.0
 
 *April 13, 2021*
